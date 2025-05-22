@@ -16,7 +16,7 @@ Ctrl + Shift + Esc: | Abre o Gerenciador de Tarefas.
 Ctrl + Alt + Del: | Menu de Gerenciador Master.
 
 Descrição: | Leitura de PDFs:
-
+---: | :---
 Page Up/Page Down: | Navegam entre as páginas.
 Setas do teclado: | Navegam pela página.
 Ctrl + +: | Aumenta o zoom.
